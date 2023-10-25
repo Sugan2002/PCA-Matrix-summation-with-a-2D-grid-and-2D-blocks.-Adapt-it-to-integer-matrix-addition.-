@@ -14,8 +14,8 @@ To implement Matrix summation with 2D grids and blocks.
 9. Reset the GPU device
 ## Program:
 
-Name: P.Suganya
-Reg. No.: 212220230049
+# Name: P.Suganya
+# Reg. No.: 212220230049
 
 ### Float Matrix Addition
 ```c
